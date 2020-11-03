@@ -1,0 +1,13 @@
+C:\Users\79052\source\repos\Test123\Test123\obj\Debug\Test123.csprojAssemblyReference.cache
+C:\Users\79052\source\repos\Test123\Test123\obj\Debug\Test123.Form1.resources
+C:\Users\79052\source\repos\Test123\Test123\obj\Debug\Test123.Properties.Resources.resources
+C:\Users\79052\source\repos\Test123\Test123\obj\Debug\Test123.csproj.GenerateResource.cache
+C:\Users\79052\source\repos\Test123\Test123\obj\Debug\Test123.csproj.CoreCompileInputs.cache
+C:\Users\79052\source\repos\Test123\Test123\bin\Debug\Test123.exe.config
+C:\Users\79052\source\repos\Test123\Test123\bin\Debug\Test123.exe
+C:\Users\79052\source\repos\Test123\Test123\bin\Debug\Test123.pdb
+C:\Users\79052\source\repos\Test123\Test123\obj\Debug\Test123.exe
+C:\Users\79052\source\repos\Test123\Test123\obj\Debug\Test123.pdb
+C:\Users\79052\source\repos\Test123\Test123\bin\Debug\netDxf.dll
+C:\Users\79052\source\repos\Test123\Test123\bin\Debug\netDxf.xml
+C:\Users\79052\source\repos\Test123\Test123\obj\Debug\Test123.csproj.CopyComplete
